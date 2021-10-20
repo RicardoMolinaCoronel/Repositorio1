@@ -50,4 +50,10 @@ public aspect Logger {
     	System.out.println("Ha realizado un " +tipoTrans.toLowerCase()+"\n");
     	System.out.println(Integer.toString(cal.get(Calendar.HOUR_OF_DAY))+":"+Integer.toString(cal.get(Calendar.MINUTE)));
     }
+    
+    /*pointcut successU() : call(void com.bank.Bank.createUser());
+    after() : successU() {
+    	System.out.println("Usuario creado");
+    }*/
+    
 }

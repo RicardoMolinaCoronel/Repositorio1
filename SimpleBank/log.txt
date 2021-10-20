@@ -12,3 +12,14 @@ Tipo transaccion: Retiro
 
 Tipo transaccion: Transaccion 
 18:15
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retiro 
+18:20
