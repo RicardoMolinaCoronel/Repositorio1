@@ -1,10 +1,17 @@
-TALLER 1
+# TALLER 1
+G1-PAR1
+--------------------------------------------------------------------------------------
+*AOP*
+--------------------------------------------------------------------------------------
+# *Figura 1:Aspecto de Ejemplo Creación de Usuario*
+![image](https://user-images.githubusercontent.com/73141188/138187639-cfb6a2df-745d-4b29-8ad3-959a488836b6.png)
+--------------------------------------------------------------------------------------
 
-#1
-![image](https://user-images.githubusercontent.com/73141188/138186221-f873a436-a455-4aa7-9b57-6f3b1aa2254c.png)
+# *Figura 2:Aspecto de Transacción*
+![image](https://user-images.githubusercontent.com/73141188/138187952-ba87e04e-8b1a-495c-b071-1e301147e619.png)
+![image](https://user-images.githubusercontent.com/73141188/138188002-3c0b2a5a-e7ff-48b5-b0d0-ba4def20723e.png)
+![image](https://user-images.githubusercontent.com/73141188/138188024-4ec66177-3156-4b5c-ad04-a821556e7209.png)
 
-#2
-![image](https://user-images.githubusercontent.com/73141188/138186237-1e092ddb-0c54-4d18-a45a-c5946a40c9bd.png)
-![image](https://user-images.githubusercontent.com/73141188/138186243-98f9b2e6-efad-4db5-a6f1-897d13865055.png)
-![image](https://user-images.githubusercontent.com/84423995/138186407-7cbf7aa9-6c12-41e5-a1b3-a5d40cb1796d.png)
+
+
 
