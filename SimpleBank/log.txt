@@ -1,0 +1,121 @@
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769807596,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=43,SECOND=27,MILLISECOND=596,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769932747,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=45,SECOND=32,MILLISECOND=747,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634769981725,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=46,SECOND=21,MILLISECOND=725,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634770069829,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=47,SECOND=49,MILLISECOND=829,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634770092288,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=48,SECOND=12,MILLISECOND=288,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634770282765,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=51,SECOND=22,MILLISECOND=765,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634770361836,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=52,SECOND=41,MILLISECOND=836,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634770492644,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=54,SECOND=52,MILLISECOND=644,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634770590322,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=56,SECOND=30,MILLISECOND=322,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retirojava.util.GregorianCalendar[time=1634770724724,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="America/Bogota",offset=-18000000,dstSavings=0,useDaylight=false,transitions=5,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=1,ERA=1,YEAR=2021,MONTH=9,WEEK_OF_YEAR=43,WEEK_OF_MONTH=4,DAY_OF_MONTH=20,DAY_OF_YEAR=293,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=58,SECOND=44,MILLISECOND=724,ZONE_OFFSET=-18000000,DST_OFFSET=0]
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retiro18:3
+
+
+
+
+
+
+
+
+
+Tipo transaccion: Retiro18:6
