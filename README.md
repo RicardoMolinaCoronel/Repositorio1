@@ -1,5 +1,11 @@
-# TALLER 1-AOP
-G1-PAR1
+# TALLER 2-AOP
+E1-PAR101
+--------------------------------------------------------------------------------------
+# *Integrantes:*
+Dereck Enríquez
+Krystel Lucin
+Ricardo Molina
+Danilo Torres
 --------------------------------------------------------------------------------------
 # *Figura 1: Aspecto de Ejemplo Creación de Usuario*
 ![image](https://user-images.githubusercontent.com/73141188/138187639-cfb6a2df-745d-4b29-8ad3-959a488836b6.png)
